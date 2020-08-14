@@ -1,6 +1,8 @@
 <template>
   <article id="main">
     <p>여지아's homepage</p>
+
+    <nuxt-link to="/profile">Profile 페이지로 이동</nuxt-link>
   </article>
 </template>
 
